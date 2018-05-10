@@ -4,7 +4,7 @@
 #
 Name     : opusfile
 Version  : 0.10
-Release  : 2
+Release  : 3
 URL      : https://github.com/xiph/opusfile/archive/v0.10.tar.gz
 Source0  : https://github.com/xiph/opusfile/archive/v0.10.tar.gz
 Summary  : High-level Opus decoding library
