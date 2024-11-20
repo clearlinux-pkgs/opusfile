@@ -1,0 +1,2 @@
+# package_version file was missing in release 0.12
+[[ -e "./package_version" ]] || echo PACKAGE_VERSION=%{version} > package_version
